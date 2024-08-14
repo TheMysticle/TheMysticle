@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey there! 👋 I'm TheMysticle
 
-<!--
-**TheMysticle/TheMysticle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Day Job:** Content Creator  
+🤖 **Night Gig:** Android ROM Developer  
+🎮 **Hobbies:** Gaming, Tinkering with Code, Learning New Things
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Profile in a Nutshell 🥜
+
+- 📱 **Android Enthusiast**
+- 💻 **Devices:** Xiaomi Mi 8 | Oneplus 8 Pro | Xiaomi 13 Pro
+- 🌱 **Learning:** Still figuring out the magic behind Android ROMs  
+
+---
+
+## 🌟 GitHub Stats
+
+![TheMysticle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheMysticle&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMysticle&layout=compact&theme=radical)
+
+---
+
+## 🔗 Let's Connect!
+
+- [Twitter](https://x.com/TheMysticle)
+- [YouTube](https://www.youtube.com/c/themysticle)
