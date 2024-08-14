@@ -17,7 +17,6 @@
 ## 🌟 GitHub Stats
 
 ![TheMysticle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheMysticle&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMysticle&layout=compact&theme=radical)
 
 ---
 
