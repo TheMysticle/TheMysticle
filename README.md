@@ -6,7 +6,7 @@
 
 ---
 
-## My GitHub Profile in a Nutshell 🥜
+## My GitHub Profile
 
 - 📱 **Android Enthusiast**
 - 💻 **Devices:** Xiaomi Mi 8 | Oneplus 8 Pro | Xiaomi 13 Pro
