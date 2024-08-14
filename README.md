@@ -18,7 +18,7 @@
 
 ![TheMysticle's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheMysticle&theme=radical)
 
-![TheMysticle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheMysticle&show_icons=true&theme=radical)
+![TheMysticle's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheMysticle&theme=radical)
 
 ---
 
